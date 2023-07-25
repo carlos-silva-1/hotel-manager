@@ -2,7 +2,9 @@
 
 This is a react application to assist manage the bookings and guests in a hotel.
 
-![](assets/hotel.gif)
+![](assets/hotel-dashboard.png)
+![](assets/hotel-bookings.png)
+![](assets/hotel-cabins.png)
 
 Routing is performed with ReactRouter; styling is done with styled components; remote state is managed with React Query; UI state is managed with Context API; offers data persistence with Supabase.
 
